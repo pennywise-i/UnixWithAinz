@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    background: url(/images/thumb1.png);
+    background-image: url(/images/thumb1.png);
     width: 1330px;
     height: 900px;
     color: white;
