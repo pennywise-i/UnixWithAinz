@@ -5,7 +5,7 @@ body{
     width: 1330px;
     height: 900px;
     color: white;
-    background: url(images/thumb1.png);
+    background: url(thumb1.png);
 }
 h1{
     position: fixed;
